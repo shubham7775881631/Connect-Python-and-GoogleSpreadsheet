@@ -1,0 +1,7 @@
+Go to the Google APIs Console.
+Create a new project.
+Click Enable API. Search for and enable the Google Drive API.
+Create credentials for a Web Server to access Application Data.
+Name the service account and grant it a Project Role of Editor.
+Download the JSON file.
+Copy the JSON file to your code directory and rename it to client_secret.json
